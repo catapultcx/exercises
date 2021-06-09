@@ -1,0 +1,2 @@
+# exercises
+Catapult engineering exercises
